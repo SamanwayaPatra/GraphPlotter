@@ -1,0 +1,1 @@
+class sffsfsfsf{private static double e=Math.E,E=Math.E,pi=Math.PI,Pi=Math.PI,pI=Math.PI,PI=Math.PI;private static double log(double x){return Math.log(x);}private static double sin(double x){return Math.sin(x);}private static double cos(double x){return Math.cos(x);}private static double tan(double x){return Math.tan(x);}static double f(double x,double t){return Test.acc(x);}}
